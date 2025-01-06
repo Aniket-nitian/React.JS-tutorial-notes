@@ -1,0 +1,32 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "react js complete course",
+  
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel index.html" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aniket-nitian/React.JS-tutorial-notes.git"
+  },
+  "keywords": [
+    "Aniket",
+    "chauhan"
+  ],
+  "author": "Aniket chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aniket-nitian/React.JS-tutorial-notes/issues"
+  },
+  "homepage": "https://github.com/Aniket-nitian/React.JS-tutorial-notes#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
