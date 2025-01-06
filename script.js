@@ -37,6 +37,8 @@ root.render(containerDIV);
 //npm i react react-dom  --> now no need of react.development and react-dom.development of CDN link
 
 //npx(parcel execute) parcel index.html
+//npx parcel build index.html --> for production(after add build key in script in package.json)
+//npm run build --> for production
 
 //tilde(~) is used for installing the latest version of the package, major change
 // carate(^) is used for installing the latest version of the package which is compatible with the current version of the package, monor change in version
